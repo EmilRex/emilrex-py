@@ -12,6 +12,8 @@
     <br>
 </p>
 
+Personal Python package.
+
 ## Getting Started
 
 ```sh

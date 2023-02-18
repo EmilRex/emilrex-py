@@ -6,7 +6,7 @@ dev_requires = open("requirements-dev.txt").read().strip().split("\n")
 setup(
     # Package metadata
     name="emilrex",
-    description="",
+    description="Personal Python package",
     author="Emil Christensen",
     author_email="emil.rex.christensen@gmail.com",
     url="https://github.com/EmilRex/emilrex-py",
